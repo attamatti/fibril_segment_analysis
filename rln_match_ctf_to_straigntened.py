@@ -1,15 +1,4 @@
 #!/usr/bin/python
-##############################################
-### FETCH COPY - (fbsmi2018-06-19 08:25:18.824032) - download a fresh copy if necessary
-##############################################
-
-##############################################
-### FETCH COPY - (fbsmi2017-02-06 09:01:07.882601) - download a fresh copy if necessary
-##############################################
-
-# generalized script for messing with starfiles
-
-
 import sys
 
 #------- function test if string is a number --------------------------#
